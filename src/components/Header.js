@@ -1,5 +1,7 @@
 import React from "react";
 
+console.log("잔디 테스트");
+
 export default function Header() {
   return (
     <div class="flex justify-between items-center bg-neutral-700 text-white h-10">
