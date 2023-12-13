@@ -7,9 +7,9 @@ import NotFound from "./pages/NotFound";
 
 const App = () => {
   return (
-    <div className="App">
+    <div className="App" class="flex flex-col h-screen">
       <BrowserRouter>
-        <Header />
+        <Header class="h-10" />
         <Routes>
           <Route path="/" element={<Home />}></Route>
           <Route path="/login" element={<Login />}></Route>
