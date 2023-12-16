@@ -1,4 +1,4 @@
-export default function Home() {
+export default function Board() {
   // TODO:
   // 1. 테이블 길이 조절
   // 2. Auto 풀고 화면비에 맞춰서 제한
