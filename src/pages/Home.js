@@ -8,12 +8,6 @@ export default function Home() {
       <div class="flex justify-center">
         <div class="relative overflow-x-auto">
           <div class="flex flex-row-reverse my-1">
-            <button
-              type="button"
-              class="text-white bg-blue-700 font-medium text-sm px-4 py-1 ml-1"
-            >
-              글쓰기
-            </button>
             <select class="bg-gray-50 border border-gray-300 text-gray-900 text-sm">
               <option selected>20개</option>
               <option value="US">50개</option>
